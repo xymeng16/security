@@ -1,0 +1,3 @@
+[submodule "spectre_meltdown_attack/spectre-attack-sgx"]
+	path = spectre_meltdown_attack/spectre-attack-sgx
+	url = https://github.com/lsds/spectre-attack-sgx.git
