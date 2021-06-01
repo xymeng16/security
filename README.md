@@ -1,4 +1,4 @@
-This repository includes security related code, including but not being limited to PoCs of existing CVEs, side-channel investigations, etc. Some Intel SGX related vunlerabilities are also included.
+This repository includes security-related code, including but not being limited to PoCs of existing CVEs, side-channel investigations, etc. Some Intel SGX related vunlerabilities are also included.
 
 Up-to-date contents of this repository is listed as follows:
 
