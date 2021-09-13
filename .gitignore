@@ -1,2 +1,7 @@
 a.out
 .vscode/
+.vs/
+*.sln
+*.vcxproj*
+Debug/
+Release/
